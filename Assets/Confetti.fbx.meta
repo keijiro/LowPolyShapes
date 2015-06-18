@@ -1,40 +1,32 @@
 fileFormatVersion: 2
-guid: 2a54abb5f5c064f20b2bac9b1e9d2e0d
-timeCreated: 1434625434
+guid: 2435b8e088489402c9a997107b5922e9
+timeCreated: 1434634532
 licenseType: Pro
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Leaf 1
-    100004: Leaf 2
-    100006: Leaf 3
-    100008: Leaf 4
-    100010: Leaf 5
+    100002: Confetti 1
+    100004: Confetti 2
+    100006: Confetti 3
+    100008: Confetti 4
     400000: //RootNode
-    400002: Leaf 1
-    400004: Leaf 2
-    400006: Leaf 3
-    400008: Leaf 4
-    400010: Leaf 5
-    2300000: //RootNode
-    2300002: Leaf 1
-    2300004: Leaf 2
-    2300006: Leaf 3
-    2300008: Leaf 4
-    2300010: Leaf 5
-    3300000: //RootNode
-    3300002: Leaf 1
-    3300004: Leaf 2
-    3300006: Leaf 3
-    3300008: Leaf 4
-    3300010: Leaf 5
-    4300000: Leaf
-    4300002: Leaf 3
-    4300004: Leaf 2
-    4300006: Leaf 1
-    4300008: Leaf 5
-    4300010: Leaf 4
+    400002: Confetti 1
+    400004: Confetti 2
+    400006: Confetti 3
+    400008: Confetti 4
+    2300000: Confetti 1
+    2300002: Confetti 2
+    2300004: Confetti 3
+    2300006: Confetti 4
+    3300000: Confetti 1
+    3300002: Confetti 2
+    3300004: Confetti 3
+    3300006: Confetti 4
+    4300000: Confetti 4
+    4300002: Confetti 2
+    4300004: Confetti 1
+    4300006: Confetti 3
   materials:
     importMaterials: 0
     materialName: 0
@@ -58,7 +50,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .100000001
+    globalScale: .0500000007
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 0
